@@ -1,0 +1,13 @@
+GO Green:
+Description:
+GO Green is an app that describes about how to save time, save money, save the earth by applying Go Green Techniques. In this app you can find the major benefits taking tips about GO Green Concept.
+
+Features:
+•	Fully research based application on How to Live Green.
+•	It tells (How to save money, save time and save Earth by just applying simple GO Green Techniques.
+•	Benefit of Live Green and save the earth.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
+•	Refresh Every Page of App.
